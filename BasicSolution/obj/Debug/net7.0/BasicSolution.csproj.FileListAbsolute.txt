@@ -1,0 +1,12 @@
+C:\C#_Class\BasicSolution\bin\Debug\net7.0\BasicSolution.deps.json
+C:\C#_Class\BasicSolution\bin\Debug\net7.0\BasicSolution.dll
+C:\C#_Class\BasicSolution\bin\Debug\net7.0\BasicSolution.pdb
+C:\C#_Class\BasicSolution\obj\Debug\net7.0\BasicSolution.csproj.AssemblyReference.cache
+C:\C#_Class\BasicSolution\obj\Debug\net7.0\BasicSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_Class\BasicSolution\obj\Debug\net7.0\BasicSolution.AssemblyInfoInputs.cache
+C:\C#_Class\BasicSolution\obj\Debug\net7.0\BasicSolution.AssemblyInfo.cs
+C:\C#_Class\BasicSolution\obj\Debug\net7.0\BasicSolution.csproj.CoreCompileInputs.cache
+C:\C#_Class\BasicSolution\obj\Debug\net7.0\BasicSolution.dll
+C:\C#_Class\BasicSolution\obj\Debug\net7.0\refint\BasicSolution.dll
+C:\C#_Class\BasicSolution\obj\Debug\net7.0\BasicSolution.pdb
+C:\C#_Class\BasicSolution\obj\Debug\net7.0\ref\BasicSolution.dll
